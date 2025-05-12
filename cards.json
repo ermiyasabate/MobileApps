@@ -1,12 +1,12 @@
 [
   {
-    "image": "https://yourdomain.com/images/image1.jpg",
-    "title": "Card One",
-    "subtitle": "This is the first card"
+    "image": "https://photos5.appleinsider.com/gallery/product_pages/189-hero.jpg",
+    "title": "Steve Jobs",
+    "subtitle": "Apple Founder"
   },
   {
-    "image": "https://yourdomain.com/images/image2.jpg",
-    "title": "Card Two",
-    "subtitle": "This is the second card"
+    "image": "https://static01.nyt.com/images/2025/05/08/multimedia/08xp-gatesmusk-qtkv/08xp-gatesmusk-qtkv-articleLarge.jpg",
+    "title": "Bill Gates",
+    "subtitle": "Microsoft Founder"
   }
 ]
