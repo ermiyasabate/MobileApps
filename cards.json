@@ -1,0 +1,12 @@
+[
+  {
+    "image": "https://yourdomain.com/images/image1.jpg",
+    "title": "Card One",
+    "subtitle": "This is the first card"
+  },
+  {
+    "image": "https://yourdomain.com/images/image2.jpg",
+    "title": "Card Two",
+    "subtitle": "This is the second card"
+  }
+]
